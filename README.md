@@ -38,7 +38,8 @@ You can easily make satshakit with a **CNC mill** or with a (more expensive) CO2
 
 Satshakit is made up of very **common components**. Here is **BOM** of the components:
 
-<iframe src="https://docs.google.com/spreadsheets/d/1svDoZXL4UT52zrwGDGs7aG2bA4hvbDQF-i0Wjd3rae0/pubhtml?widget=true&amp;headers=false"></iframe>
+- [excel]("docs/satshakit_BOM.xlsx")
+- [open document]("docs/satshakit_BOM.ods")
 
 When you finish solder satshakit, you're ready to program it.
 If you want to use satshakit as an Arduino, you first need to **upload Arduino bootloader**.
