@@ -18,28 +18,28 @@ What is satshakit?
 --
 <img src="media/satshakit/satshakit_board.png" width="60%">
 
-Satshakit is an Arduino compatible, fabbable board, and also an improved version of [Fabkit](http://fabacademy.org/archives/2015/doc/fabkit-0.4.html) 
+Satshakit is an Arduino compatible, fabbable board, and also an improved version of [Fabkit](http://fabacademy.org/archives/2015/doc/fabkit-0.4.html). 
 
 Main **improvements** over Fabkit are:
 
 - **16Mhz** instead of 8Mhz
 - **crystal** instead of resonator
 - it **costs less** (9.23 euro vs 13.11 euro)
-- use **default Arduino IDE** (satshakit is recognized as Arduino UNO) instead of a patched Arduino IDE
+- it uses **default Arduino IDE** (satshakit is recognized as Arduino UNO) instead of a patched Arduino IDE
 - ADC6/7 connected instead of ADC6/7 not connected
-- plenty of space to easy soldering
+- larger space to easy soldering
 - almost **rect traces** instead of almost oblique ones
 - power led instead of none
 
 
 Getting Started
 --
-You can easily make satshakit with a **CNC mill** or with a (more expensive) CO2/fiber laser cutting machine.
+You can easily make satshakit with a **CNC mill** or with a (more expensive) **CO2/fiber** laser cutting machine.
 
 Satshakit is made up of very **common components**. Here is **BOM** of the components:
 
-- [excel]("docs/satshakit_BOM.xlsx")
-- [open document]("docs/satshakit_BOM.ods")
+- [excel](https://github.com/satshas/satshakit/raw/master/docs/satshakit_BOM.xlsx)
+- [open document](https://github.com/satshas/satshakit/raw/master/docs/satshakit_BOM.ods)
 
 When you finish solder satshakit, you're ready to program it.
 If you want to use satshakit as an Arduino, you first need to **upload Arduino bootloader**.
