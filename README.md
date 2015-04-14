@@ -1,3 +1,8 @@
+Git hub:
+
+title: satshakit
+Description: An improved & fabbable Fabkit 100% Arduino IDE/libraries compatible board
+
 <h1 style="font-family: courier;" align="center"> satshakit</h1>
 <p align="center">
 <img src="media/readme/satshakites.jpg" width="70%">
@@ -50,10 +55,10 @@ And here is the connection schema to program it with FabISP:
 
 Once everything is connected, follow these steps to upload Arduino bootloader:
 
-- open Arduino IDE 
-- select proper programmer (for example Arduino as ISP) 
-- select Arduino UNO as board
-- click on tools->Burn Bootloader.
+1. open Arduino IDE 
+2. select proper programmer (for example Arduino as ISP) 
+3. select Arduino UNO as board
+4. click on tools->Burn Bootloader.
 
 Once Arduino bootloader is uploaded, you can use the above configurations to upload and use you favourite sketch.
 Remember that you always need a programmer, and to select **File->Upload using a programmer** to upload the code to satshakit.
@@ -72,13 +77,13 @@ Videos
 --
 satshakit programmed with a FabISP:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YNITEv0ebkc" frameborder="0" allowfullscreen></iframe>
+[[!](http://img.youtube.com/vi/YNITEv0ebkc/0.jpg)](https://www.youtube.com/watch?v=YNITEv0ebkc)
 
 Here are some videos of satshakit while is working with **different configuration and/or sensors**:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZQmN3uTlZuc" frameborder="0" allowfullscreen></iframe>
+[[!](http://img.youtube.com/vi/Gk_RFebLofY/0.jpg)](https://www.youtube.com/watch?v=Gk_RFebLofY)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gk_RFebLofY" frameborder="0" allowfullscreen></iframe>
+[[!](http://img.youtube.com/vi/ZQmN3uTlZuc/0.jpg)](https://www.youtube.com/watch?v=Gk_RFebLofY][https://www.youtube.com/watch?v=ZQmN3uTlZuc)
 
 Author
 --
@@ -88,7 +93,7 @@ Author
 
 License
 --
-This work is licensed under GNU Lesser General Public License v2.1[LGPL](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+This work is licensed under GNU Lesser General Public License v2.1 ([LGPL](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)).
 
 Disclaimer  
 --
