@@ -1,8 +1,3 @@
-Git hub:
-
-title: satshakit
-Description: An improved & fabbable Fabkit 100% Arduino IDE/libraries compatible board
-
 <h1 style="font-family: courier;" align="center"> satshakit</h1>
 <p align="center">
 <img src="media/readme/satshakites.jpg" width="70%">
@@ -55,10 +50,10 @@ And here is the connection schema to program it with FabISP:
 
 Once everything is connected, follow these steps to upload Arduino bootloader:
 
-1 open Arduino IDE 
-2 select proper programmer (for example Arduino as ISP) 
-3 select Arduino UNO as board
-4 click on tools->Burn Bootloader.
+- open Arduino IDE 
+- select proper programmer (for example Arduino as ISP) 
+- select Arduino UNO as board
+- click on tools->Burn Bootloader.
 
 Once Arduino bootloader is uploaded, you can use the above configurations to upload and use you favourite sketch.
 Remember that you always need a programmer, and to select **File->Upload using a programmer** to upload the code to satshakit.
