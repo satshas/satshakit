@@ -77,13 +77,19 @@ Videos
 --
 satshakit programmed with a FabISP:
 
-[[!](http://img.youtube.com/vi/YNITEv0ebkc/0.jpg)](https://www.youtube.com/watch?v=YNITEv0ebkc)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YNITEv0ebkc
+" target="_blank"><img src="http://img.youtube.com/vi/YNITEv0ebkc/0.jpg" 
+alt="http://img.youtube.com/vi/YNITEv0ebkc/0.jpg" width="240" height="180" border="10" /></a>
 
 Here are some videos of satshakit while is working with **different configuration and/or sensors**:
 
-[[!](http://img.youtube.com/vi/Gk_RFebLofY/0.jpg)](https://www.youtube.com/watch?v=Gk_RFebLofY)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Gk_RFebLofY
+" target="_blank"><img src="http://img.youtube.com/vi/Gk_RFebLofY/0.jpg" 
+alt="http://img.youtube.com/vi/Gk_RFebLofY/0.jpg" width="240" height="180" border="10" /></a>
 
-[[!](http://img.youtube.com/vi/ZQmN3uTlZuc/0.jpg)](https://www.youtube.com/watch?v=Gk_RFebLofY][https://www.youtube.com/watch?v=ZQmN3uTlZuc)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZQmN3uTlZuc
+" target="_blank"><img src="http://img.youtube.com/vi/ZQmN3uTlZuc/0.jpg" 
+alt="http://img.youtube.com/vi/ZQmN3uTlZuc/0.jpg" width="240" height="180" border="10" /></a>
 
 Author
 --
