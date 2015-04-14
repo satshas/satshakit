@@ -1,8 +1,3 @@
-Git hub:
-
-title: satshakit
-Description: An improved & fabbable Fabkit 100% Arduino IDE/libraries compatible board
-
 <h1 style="font-family: courier;" align="center"> satshakit</h1>
 <p align="center">
 <img src="media/readme/satshakites.jpg" width="70%">
