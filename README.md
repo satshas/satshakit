@@ -1,7 +1,7 @@
 <h1 style="font-family: courier;" align="center"> satshakit</h1>
 <p align="center">
 <img src="media/readme/satshakites.jpg" width="70%">
-<div align="center"><i>An improved & fabbable Fabkit 100% Arduino IDE/libraries compatible board.</i></div>
+<div align="center"><i>An improved & fabbable 100% Arduino IDE/libraries compatible board.</i></div>
 </p>  
 
 
