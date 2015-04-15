@@ -54,7 +54,7 @@ Once everything is connected, follow these steps to upload Arduino bootloader:
 1. open Arduino IDE 
 2. select proper programmer (for example Arduino as ISP) 
 3. select Arduino UNO as board
-4. click on tools->Burn Bootloader.
+4. click on tools->Burn Bootloader
 
 Once Arduino bootloader is uploaded, you can use the above configurations to upload and use you favourite sketch.
 Remember that you always need a programmer, and to select **File->Upload using a programmer** to upload the code to satshakit.
@@ -65,13 +65,13 @@ Here is the Arduino pinout on satshakit:
 
 What's in the repo
 --
-- **docs**: BOM files and a ready shopping cart for Farnell.
+- **docs**: BOM files and a ready shopping cart for Farnell
 - **egle_schematic**: eagle project of satshakit
 - **media**: svg of satshakit, connections schemas, other images
 
 Videos
 --
-satshakit programmed with a FabISP:
+Satshakit programmed with a FabISP:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YNITEv0ebkc
 " target="_blank"><img src="http://img.youtube.com/vi/YNITEv0ebkc/0.jpg" 
@@ -87,9 +87,16 @@ alt="http://img.youtube.com/vi/Gk_RFebLofY/0.jpg" width="240" height="180" borde
 " target="_blank"><img src="http://img.youtube.com/vi/ZQmN3uTlZuc/0.jpg" 
 alt="http://img.youtube.com/vi/ZQmN3uTlZuc/0.jpg" width="240" height="180" border="10" /></a>
 
+Satshakit little radar, a **satshakit modified board** with an ULN2003A:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ws3hkNioKY0
+" target="_blank"><img src="http://img.youtube.com/vi/ws3hkNioKY0/0.jpg" 
+alt="http://img.youtube.com/vi/ws3hkNioKY0/0.jpg" width="240" height="180" border="10" /></a>
+
+
 Author
 --
-- **Daniele Ingrassia**
+**Daniele Ingrassia:**
 - **ingrassiada@gmail.com**
 - **[Linkedin](http://it.linkedin.com/in/danieleingrassia)**
 
