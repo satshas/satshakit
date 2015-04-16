@@ -89,9 +89,9 @@ alt="http://img.youtube.com/vi/ZQmN3uTlZuc/0.jpg" width="240" height="180" borde
 
 Satshakit little radar, a **satshakit modified board** with an ULN2003A:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ws3hkNioKY0
-" target="_blank"><img src="http://img.youtube.com/vi/ws3hkNioKY0/0.jpg" 
-alt="http://img.youtube.com/vi/ws3hkNioKY0/0.jpg" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0FD7bHNqlxU
+" target="_blank"><img src="http://img.youtube.com/vi/0FD7bHNqlxU/0.jpg" 
+alt="http://img.youtube.com/vi/0FD7bHNqlxU/0.jpg" width="240" height="180" border="10" /></a>
 
 
 Author
