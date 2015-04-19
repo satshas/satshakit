@@ -52,12 +52,17 @@ And here is the connection schema to program it with FabISP:
 Once everything is connected, follow these steps to upload Arduino bootloader:
 
 1. open Arduino IDE 
-2. select proper programmer (for example Arduino as ISP) 
+2. select proper programmer (for example Arduino as ISP or USBtinyISP) 
 3. select Arduino UNO as board
 4. click on tools->Burn Bootloader
 
-Once Arduino bootloader is uploaded, you can use the above configurations to upload and use you favourite sketch.
-Remember that you always need a programmer, and to select **File->Upload using a programmer** to upload the code to satshakit.
+Once Arduino bootloader is uploaded, you can use an **FTDI USB cable to upload and use you favourite sketch**. With an FDTI cable you don't need a programmer anymore.
+
+Here is the connection schema for the FTDI cable:
+
+<img src="media/satshakit/programming_FTDI.jpg" width="60%">
+
+Remember that  if don't have an FTDI cable you always need a programmer, and to select **File->Upload using a programmer** to upload the code to satshakit.
 
 Here is the Arduino pinout on satshakit:
 
