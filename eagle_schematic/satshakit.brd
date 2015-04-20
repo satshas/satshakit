@@ -832,9 +832,9 @@ design rules under a new name.</description>
 <wire x1="48.377546875" y1="21.493075" x2="48.56308125" y2="21.285265625" width="0.254" layer="1"/>
 <contactref element="C3" pad="2"/>
 <wire x1="28.956" y1="28.959" x2="28.956" y2="30.861" width="0.3048" layer="1"/>
-<wire x1="27.305" y1="32.004" x2="22.987" y2="32.004" width="0.3048" layer="1"/>
-<wire x1="22.987" y1="32.004" x2="22.987" y2="27.051" width="0.3048" layer="1"/>
-<wire x1="22.987" y1="27.051" x2="25.654" y2="27.051" width="0.3048" layer="1"/>
+<wire x1="27.305" y1="32.004" x2="21.59" y2="32.004" width="0.3048" layer="1"/>
+<wire x1="21.59" y1="32.004" x2="21.59" y2="27.051" width="0.3048" layer="1"/>
+<wire x1="21.59" y1="27.051" x2="25.654" y2="27.051" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$1">
 <contactref element="MICRO" pad="9"/>
