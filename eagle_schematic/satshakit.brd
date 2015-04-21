@@ -696,7 +696,7 @@ design rules under a new name.</description>
 <element name="C3" library="01_SparkFun" package="1206" value="10uF" x="28.956" y="27.559" rot="R90"/>
 <element name="C4" library="01_SparkFun" package="1206" value="1uF" x="60.452" y="19.177" rot="R90"/>
 <element name="C5" library="01_SparkFun" package="1206" value="100pF" x="63.754" y="19.177" rot="R90"/>
-<element name="C6" library="01_SparkFun" package="1206" value="100pF" x="21.336" y="35.306"/>
+<element name="C6" library="01_SparkFun" package="1206" value="100nF" x="21.336" y="35.306"/>
 <element name="PAD_B" library="01_SparkFun" package="1X01" value="M01PTH" x="25.654" y="35.56"/>
 </elements>
 <signals>
