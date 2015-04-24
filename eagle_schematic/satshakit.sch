@@ -2324,7 +2324,7 @@ Standard 1-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="R3" library="01_SparkFun" deviceset="RESISTOR" device="1206" value="499"/>
 <part name="C3" library="01_SparkFun" deviceset="CAP" device="1206" value="10uF"/>
 <part name="C4" library="01_SparkFun" deviceset="CAP" device="1206" value="1uF"/>
-<part name="C5" library="01_SparkFun" deviceset="CAP" device="1206" value="100pF"/>
+<part name="C5" library="01_SparkFun" deviceset="CAP" device="1206" value="100nF"/>
 <part name="C6" library="01_SparkFun" deviceset="CAP" device="1206" value="100nF"/>
 <part name="PAD_B" library="01_SparkFun" deviceset="M01" device="PTH"/>
 </parts>
