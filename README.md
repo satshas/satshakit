@@ -19,7 +19,7 @@ Main **improvements** over Fabkit are:
 
 - **16Mhz** instead of 8Mhz
 - **crystal** instead of resonator
-- it **costs less** (9.23 euro vs 13.11 euro)
+- it **costs less** (9.07 euro vs 13.11 euro)
 - it uses **default Arduino IDE** (satshakit is recognized as Arduino UNO) instead of a patched Arduino IDE
 - ADC6/7 connected instead of ADC6/7 not connected
 - larger space to easy soldering
