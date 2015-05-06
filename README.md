@@ -76,7 +76,10 @@ Modular & Multicore satshakit
 
 Actually, I've made a 5-core satshakit system, here are some pictures about:
 
-
+<img src="media/satshakit/modular_1.jpg" width="60%">
+<img src="media/satshakit/modular_2.jpg" width="60%">
+<img src="media/satshakit/modular_3.jpg" width="60%">
+<img src="media/satshakit/modular_4.jpg" width="60%">
 
 
 satshakit power board
