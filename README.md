@@ -68,6 +68,26 @@ Here is the Arduino pinout on satshakit:
 
 <img src="media/satshakit/Arduino_pin_mapping.jpg" width="60%">
 
+Modular & Multicore satshakit
+--
+<img src="media/satshakit/satshakit_modular_board.jpeg" width="60%">
+
+**Satshakit modular** boards born as a further experiment on **MCU multithreading and networking**. Satshakit modular boards have only the following modifications in confront of the standard satshakit: 4 extra pin headers (1 GND,1 VCC,1 A4, 1 A5). These pin headers serve also a structural pillars to build a modular satshakit tower. So modular satshakit share the same power source, and can direct communicate with **I2C**. 
+
+Actually, I've made a 5-core satshakit system, here are some pictures about:
+
+
+
+
+satshakit power board
+--
+<img src="media/satshakit/power_board.jpeg" width="60%">
+
+Due to the power requirements of a multicore satshakit system and to eventually provide power to **3.3V devices**, I also develop a simple power board. This power board can work with 7V-12V as input voltage, and give out 5V and 3.3V. I made this power board with the components I had available, obviously you can make this board only with SMD components.
+
+Here is a picture of a soldered power board:
+<img src="media/satshakit/power_board.jpg" width="60%">
+
 What's in the repo
 --
 - **docs**: BOM files and a ready shopping cart for Farnell
@@ -76,11 +96,21 @@ What's in the repo
 
 Videos
 --
-Satshakit programmed with a FabISP:
+satshakit programmed with a FabISP:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YNITEv0ebkc
 " target="_blank"><img src="http://img.youtube.com/vi/YNITEv0ebkc/0.jpg" 
 alt="http://img.youtube.com/vi/YNITEv0ebkc/0.jpg" width="240" height="180" border="10" /></a>
+
+**satshakit modular videos**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nVHYBydPKpk
+" target="_blank"><img src="http://img.youtube.com/vi/nVHYBydPKpk/0.jpg" 
+alt="http://img.youtube.com/vi/nVHYBydPKpk/0.jpg" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bxnmX-B9Czo
+" target="_blank"><img src="http://img.youtube.com/vi/bxnmX-B9Czo/0.jpg" 
+alt="http://img.youtube.com/vi/bxnmX-B9Czo/0.jpg" width="240" height="180" border="10" /></a>
 
 Here are some videos of satshakit while is working with **different configuration and/or sensors**:
 
