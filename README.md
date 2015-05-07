@@ -150,6 +150,15 @@ Author
 - **ingrassiada@gmail.com**
 - **[Linkedin](http://it.linkedin.com/in/danieleingrassia)**
 
+
+Thanks
+--
+[opendot Fablab](http://www.opendotlab.it/)
+
+mailto:info@opendotlab.it
+Via Tertulliano N70 20137 Milan
++39.02.36519890
+
 License
 --
 This work is licensed under GNU Lesser General Public License v2.1 ([LGPL](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)).
