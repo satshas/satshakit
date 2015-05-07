@@ -155,9 +155,9 @@ Thanks
 --
 [opendot Fablab](http://www.opendotlab.it/)
 
-mailto:info@opendotlab.it
-Via Tertulliano N70 20137 Milan
-+39.02.36519890
+ info@opendotlab.it
+ Via Tertulliano N70, 20137, Milan
+ +39.02.36519890
 
 License
 --
