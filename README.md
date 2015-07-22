@@ -163,7 +163,7 @@ Via Tertulliano N70, 20137, Milan
 
 License
 --
-This work is licensed under GNU Lesser General Public License v2.1 ([LGPL](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)).
+This work is licensed under the terms of Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 Disclaimer  
 --
