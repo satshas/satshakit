@@ -48,22 +48,26 @@ Here is the **satshakit laser board**:
 
 <img src="/media/satshakit_laser/satshakit_laser_board.png" width="70%">
 
+<img src="/media/satshakit_laser/satshakit_laser.png" width="70%">
+
 This is the **satshakit cnc board**:
 
 <img src="/media/satshakit_cnc/satshakit_cnc_board.jpg" width="70%">
 
+<img src="/media/satshakit_cnc/satshakit_cnc_internal.png" width="70%">
+
 **downloads**
 
-- [satshakit cnc svg]()
-- [satshakit cnc cut png]()
-- [satshakit cnc holes png]()
-- [satshakit cnc cut png]()
-- [satshakit cnc cut tip png]()
-- [satshakit cnc schematic]()
-- [satshakit cnc board]()
-- [satshakit laser svg png]()
-- [satshakit laser schematic]()
-- [satshakit laser board]()
+- [satshakit cnc svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc.svg)
+- [satshakit cnc internal png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc_internal.png)
+- [satshakit cnc holes png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc_holes.png)
+- [satshakit cnc cut png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc_cut.png)
+- [satshakit cnc cut tips png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc_cut_tip.png)
+- [satshakit cnc schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_cnc/satshakit_cnc.sch)
+- [satshakit cnc board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_cnc/satshakit_cnc.brd)
+- [satshakit laser svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_laser/satshakit_laser.svg)
+- [satshakit laser schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_laser/satshakit_laser.sch)
+- [satshakit laser board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_laser/satshakit_laser.brd)
 
 **media**
 
@@ -127,16 +131,17 @@ satshakit micro is a downsized version of the satshakit laser and cnc, developed
 Here is the **satshakit micro board**:
 
 <img src="/media/satshakit_micro/satshakit_micro_board.jpg" width="70%">
+<img src="https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_internal.png" width="70%">
 
 **downloads**
 
-- [satshakit micro svg]()
-- [satshakit micro cut png]()
-- [satshakit micro holes png]()
-- [satshakit micro cut png]()
-- [satshakit micro cut tip png]()
-- [satshakit micro schematic]()
-- [satshakit micro board]()
+- [satshakit micro svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro.svg)
+- [satshakit micro cut png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_internal.png)
+- [satshakit micro holes png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_holes.png)
+- [satshakit micro cut png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_cut.png)
+- [satshakit micro cut tips png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_cut_tips.png)
+- [satshakit micro schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_micro/satshakit_micro.sch)
+- [satshakit micro board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_micro/satshakit_micro.brd)
 
 **media**
 
@@ -178,13 +183,13 @@ Here is the **satshakit multicore board**:
 
 <img src="/media/satshakit_multicore/satshakit_multicore_3.jpg" width="60%">
 
-satshakit multicore blink:
+satshakit multicore assembly & test:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nVHYBydPKpk
 " target="_blank"><img src="http://img.youtube.com/vi/nVHYBydPKpk/0.jpg" 
 alt="http://img.youtube.com/vi/nVHYBydPKpk/0.jpg" width="240" height="180" border="10" /></a>
 
-satshakit multicore assembly & test:
+satshakit multicore blink:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bxnmX-B9Czo
 " target="_blank"><img src="http://img.youtube.com/vi/bxnmX-B9Czo/0.jpg" 
@@ -248,7 +253,7 @@ And here is the Arduino pinout of the satshakit micro:
 What's in the repo
 --
 - **[docs]()**: BOM files and a ready shopping cart for Farnell
-- **[egle schematic]()**: eagle projects of satshakit
+- **[egle projects]()**: eagle projects of satshakit
 - **[media]()**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
 
 Authors
