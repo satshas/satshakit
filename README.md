@@ -116,6 +116,12 @@ alt="http://img.youtube.com/vi/9XcrL3Ypu_s/0.jpg" width="240" height="180" borde
 " target="_blank"><img src="http://img.youtube.com/vi/zIuTUFps1bE/0.jpg" 
 alt="http://img.youtube.com/vi/zIuTUFps1bE/0.jpg" width="240" height="180" border="10" /></a>
 
+satshakit car with sonars sensors ans Raspberry Pi:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=A0I6Nj6D2sE
+" target="_blank"><img src="http://img.youtube.com/vi/A0I6Nj6D2sE/0.jpg" 
+alt="http://img.youtube.com/vi/A0I6Nj6D2sE/0.jpg" width="240" height="180" border="10" /></a>
+
 satshakit little radar, a **satshakit modified board** with an ULN2003A:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0FD7bHNqlxU
@@ -194,6 +200,11 @@ satshakit multicore blink:
 " target="_blank"><img src="http://img.youtube.com/vi/bxnmX-B9Czo/0.jpg" 
 alt="http://img.youtube.com/vi/bxnmX-B9Czo/0.jpg" width="240" height="180" border="10" /></a>
 
+quad satshakit bluetooth triangulation:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uuVuoD9TB4M
+" target="_blank"><img src="http://img.youtube.com/vi/uuVuoD9TB4M/0.jpg" 
+alt="http://img.youtube.com/vi/uuVuoD9TB4M/0.jpg" width="240" height="180" border="10" /></a>
 
 
 satshakit power board
