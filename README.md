@@ -168,12 +168,15 @@ Here is the **satshakit multicore board**:
 
 **media**
 
+<img src="/media/satshakit_multicore/satshakit_multicore_1.jpg" width="60%">
+
+<img src="/media/satshakit_multicore/satshakit_multicore_4.jpg" width="60%">
+
 5-core satshakit system:
 
-<img src="/media/satshakit_multicore/satshakit_multicore_1.jpg" width="60%">
 <img src="/media/satshakit_multicore/satshakit_multicore_2.jpg" width="60%">
+
 <img src="/media/satshakit_multicore/satshakit_multicore_3.jpg" width="60%">
-<img src="/media/satshakit_multicore/satshakit_multicore_4.jpg" width="60%">
 
 satshakit multicore blink:
 
@@ -230,7 +233,7 @@ If you made a satshakit cnc, satshakit laser or satshakit multicore, you can use
 
 Here is the connection schema to program a satshakit using the FTDI cable:
 
-<img src="media/satshakit_laser/programming_FTDI.jpg" width="60%">
+<img src="media/satshakit_laser/satshakit_laser_programming_FTDI.jpg" width="60%">
 
 Remember that  if don't have an FTDI cable you always need a programmer, and to select **File->Upload using a programmer** to upload the code to satshakit.
 
@@ -244,9 +247,9 @@ And here is the Arduino pinout of the satshakit micro:
 
 What's in the repo
 --
-- **docs**: BOM files and a ready shopping cart for Farnell
-- **egle_schematic**: eagle projects of satshakit
-- **media**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
+- **[docs]()**: BOM files and a ready shopping cart for Farnell
+- **[egle schematic]()**: eagle projects of satshakit
+- **[media]()**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
 
 Authors
 --
