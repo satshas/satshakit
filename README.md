@@ -167,9 +167,8 @@ Here is the **satshakit multicore board**:
 
 **downloads**
 
-- [satshakit multicore svg]()
-- [satshakit micro schematic]()
-- [satshakit multicore board]()
+- [satshakit multicore schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_multicore/satshakit_multicore.sch)
+- [satshakit multicore board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_multicore/satshakit_multicore.brd)
 
 **media**
 
