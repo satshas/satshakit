@@ -26,7 +26,7 @@ Main **improvements and features** over Fabkit are:
 satshakit boards
 --
 
-I have developed different kind of **satshakit boards** depending on the **fabrication technique** you will use to make them, or on the **size** of the board. 
+There are different kinds of **satshakit boards** depending on the **fabrication technique** you will use to make them, or on the **size** of the board. 
 
 <img src="media/readme/satshakit_versions.jpg" width="70%">
 
@@ -46,7 +46,7 @@ satshakit laser and cnc
 
 Here is the **satshakit laser board**:
 
-<img src="/media/satshakit_laser/satshakit_laser_board.jpg" width="70%">
+<img src="/media/satshakit_laser/satshakit_laser_board.png" width="70%">
 
 This is the **satshakit cnc board**:
 
@@ -69,13 +69,13 @@ This is the **satshakit cnc board**:
 
 satshakit laser:
 
-<img src="/media/satshakit_laser/satshakit_laser1.jpg" width="70%">
+<img src="/media/satshakit_laser/satshakit_laser_1.jpg" width="70%">
 
 satshakit cnc:
 
-<img src="/media/satshakit_cnc/satshakit_cnc1.jpg" width="70%">
+<img src="/media/satshakit_cnc/satshakit_cnc_1.jpg" width="70%">
 
-<img src="/media/satshakit_cnc/satshakit_cnc2.jpg" width="70%">
+<img src="/media/satshakit_cnc/satshakit_cnc_2.jpg" width="70%">
 
 satshakit cnc blinks:
 
