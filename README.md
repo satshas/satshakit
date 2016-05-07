@@ -126,7 +126,7 @@ alt="http://img.youtube.com/vi/0FD7bHNqlxU/0.jpg" width="240" height="180" borde
 satshakit micro
 --
 
-satshakit micro is a downsized version of the satshakit laser and cnc, developed to be used in **constrained space applications** like embedding the board in textiles or in small objects or useful for who wants just a **bare metal board** to start with, also easy to be modified and/or customized. While satshakit micro is less than half the size of the other satshakits, it's a **full featured board** with the full Adruino pinout, missing only the possibility to be programmed using an FTDI cable.
+satshakit micro is a downsized version of the satshakit laser and cnc, developed to be used in **constrained space applications** like embedding the board in textiles or in small objects, or useful for who wants just a **bare metal board** to start with, also easy to be modified and/or customized. While satshakit micro is less than half the size of the other satshakits, it's a **full featured board** with the full Adruino pinout, missing only the possibility to be programmed using an FTDI cable.
 
 Here is the **satshakit micro board**:
 
@@ -136,7 +136,7 @@ Here is the **satshakit micro board**:
 **downloads**
 
 - [satshakit micro svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro.svg)
-- [satshakit micro cut png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_internal.png)
+- [satshakit micro internal png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_internal.png)
 - [satshakit micro holes png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_holes.png)
 - [satshakit micro cut png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_cut.png)
 - [satshakit micro cut tips png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_cut_tips.png)
@@ -251,9 +251,9 @@ And here is the Arduino pinout of the satshakit micro:
 
 What's in the repo
 --
-- **[docs]()**: BOM files and a ready shopping cart for Farnell
-- **[egle projects]()**: eagle projects of satshakit
-- **[media]()**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
+- **[docs](https://github.com/satshas/satshakit/tree/master/docs)**: BOM files for Farnell
+- **[egle projects](https://github.com/satshas/satshakit/tree/master/eagle_projects)**: eagle projects of satshakit
+- **[media](https://github.com/satshas/satshakit/tree/master/media)**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
 
 Authors
 --
