@@ -144,7 +144,7 @@ Here is the **satshakit micro board**:
 
 <img src="/media/satshakit_micro/satshakit_micro_2.jpg" width="70%">
 
-satshakit multicore blink:
+satshakit micro blink:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3qz0hKS8dOc
 " target="_blank"><img src="http://img.youtube.com/vi/3qz0hKS8dOc/0.jpg" 
@@ -170,10 +170,10 @@ Here is the **satshakit multicore board**:
 
 5-core satshakit system:
 
-<img src="/media/satshakit/satshakit_multicore_1.jpg" width="60%">
-<img src="/media/satshakit/satshakit_multicore_2.jpg" width="60%">
-<img src="/media/satshakit/satshakit_multicore_3.jpg" width="60%">
-<img src="/media/satshakit/satshakit_multicore_4.jpg" width="60%">
+<img src="/media/satshakit_multicore/satshakit_multicore_1.jpg" width="60%">
+<img src="/media/satshakit_multicore/satshakit_multicore_2.jpg" width="60%">
+<img src="/media/satshakit_multicore/satshakit_multicore_3.jpg" width="60%">
+<img src="/media/satshakit_multicore/satshakit_multicore_4.jpg" width="60%">
 
 satshakit multicore blink:
 
@@ -191,13 +191,13 @@ alt="http://img.youtube.com/vi/bxnmX-B9Czo/0.jpg" width="240" height="180" borde
 
 satshakit power board
 --
-<img src="media/satshakit/power_board.jpeg" width="60%">
+<img src="media/satshakit_power_board/power_board.jpeg" width="60%">
 
 Due to the power requirements of a multicore satshakit system and to eventually provide power to **3.3V devices**, I also develop a simple power board. This power board can work with 7V-12V as input voltage, and give out 5V and 3.3V. I made this power board with the components I had available, obviously you can make this board only with SMD components.
 
 Here is a picture of a soldered power board:
 
-<img src="media/satshakit/power_board.jpg" width="60%">
+<img src="media/satshakit_power_board/power_board.jpg" width="60%">
 
 Getting Started
 --
@@ -209,15 +209,15 @@ To do this you need to use a **programmer**, for example another Arduino or FabI
 
 Here are the connection schemas to program **satshakit laser**, **satshakit cnc** or a **satshakit multicore** with an Arduino as ISP or with a FabISP:
 
-<img src="media/satshakit_laser/satshakit_laser_programming_arduino.png" width="60%">
+<img src="media/satshakit_laser/satshakit_laser_arduino_programming.png" width="60%">
 
-<img src="media/satshakit_laser/satshakit_laser_programming_fabisp.png" width="60%">
+<img src="media/satshakit_laser/satshakit_laser_fabisp_programming.png" width="60%">
 
 If you made a **satshakit micro**, here are the connection schemas to program it as before for the other satshakits:
 
-<img src="media/satshakit_micro/satshakit_micro_programming_Arduino.png" width="60%">
+<img src="media/satshakit_micro/satshakit_micro_arduino_programming.png" width="60%">
 
-<img src="media/satshakit_micro/satshakit_micro_programming_FABIsp.png" width="60%">
+<img src="media/satshakit_micro/satshakit_micro_fabisp_programming.png" width="60%">
 
 Once everything is connected, follow these steps to upload Arduino bootloader:
 
@@ -230,15 +230,17 @@ If you made a satshakit cnc, satshakit laser or satshakit multicore, you can use
 
 Here is the connection schema to program a satshakit using the FTDI cable:
 
-<img src="media/satshakit/programming_FTDI.jpg" width="60%">
+<img src="media/satshakit_laser/programming_FTDI.jpg" width="60%">
 
 Remember that  if don't have an FTDI cable you always need a programmer, and to select **File->Upload using a programmer** to upload the code to satshakit.
 
 To use a satshakit like an Arduino, here is the Arduino pinout on satshakit cnc, satshakit laser and satshakit multicore:
 
+<img src="media/satshakit_laser/satshakit_laser_arduino_pin_mapping.png" width="60%">
+
 And here is the Arduino pinout of the satshakit micro:
 
-<img src="media/satshakit/Arduino_pin_mapping.jpg" width="60%">
+<img src="media/satshakit_micro/satshakit_micro_arduino_pin_mapping.png" width="60%">
 
 What's in the repo
 --
