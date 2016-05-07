@@ -7,12 +7,12 @@
 
 The story
 --
-Satshakit born during my **[FabAcademy2015](http://fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)**  as one the first test boards for my quadcopter final project. As some of my fellow students had difficulties with **[Fabkit](http://fabacademy.org/archives/2015/doc/projects/fabkit-0.4.html)**, they tried to make this prototype board. The board was very appreciated that now almost all my fellow students made it for their exercises, or use it as a **starting point for their final projects**. Thus I decided to do this release, if anyone wants to try it. Now, one year later, I am again in a FabLab developing new satshakit boards in my spare time.
+satshakit born during my **[FabAcademy2015](http://fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)**  as one the first test boards for my quadcopter final project. As some of my fellow students had difficulties with **[Fabkit](http://fabacademy.org/archives/2015/doc/projects/fabkit-0.4.html)**, they tried to make this prototype board. The board was very appreciated that now almost all my fellow students made it for their exercises, or use it as a **starting point for their final projects**. Thus I decided to do this release, if anyone wants to try it. Now, one year later, I am again in a FabLab developing new satshakit boards in my spare time.
 
 What is satshakit?
 --
 
-Satshakit is an **100% Arduino IDE  and libraries compatible**, fabbable board, and also an improved version of [Fabkit](http://fabacademy.org/archives/2015/doc/projects/fabkit-0.4.html). 
+satshakit is a **100% Arduino IDE  and libraries compatible**, fabbable and open source board, and also an improved version of [Fabkit](http://fabacademy.org/archives/2015/doc/projects/fabkit-0.4.html). 
 
 Main **improvements and features** over Fabkit are:
 
@@ -42,7 +42,7 @@ Here is a comparison table about different satshakit boards:
 satshakit laser and cnc
 --
 
-**satshakit laser** and **satshakit cnc** are the standard versions of the satshakit. They are actually the same board, showing some layout differences to improve the making process with a **fiber laser** cutter machine, or a little **cnc mill**. These satshakits are meant to be a general purpose board, having the full Arduino pinout plus ADC6/7, large space for easy soldering and two led onboard for power and pin 13.
+**satshakit laser** and **satshakit cnc** are the standard versions of the satshakit. They are actually the same board, showing some layout differences to improve the fabrication process using a **fiber laser** cutter machine, or a little **cnc mill**. These satshakits are meant to be a general purpose board, having the full Arduino pinout plus ADC6/7 pins, large space for easy soldering and two led onboard for power and pin 13.
 
 Here is the **satshakit laser board**:
 
@@ -50,7 +50,7 @@ Here is the **satshakit laser board**:
 
 <img src="media/satshakit_laser/satshakit_laser.png" width="70%">
 
-This is the **satshakit cnc board**:
+And this is the **satshakit cnc board**:
 
 <img src="media/satshakit_cnc/satshakit_cnc_board.jpg" width="70%">
 
@@ -116,7 +116,7 @@ alt="http://img.youtube.com/vi/9XcrL3Ypu_s/0.jpg" width="240" height="180" borde
 " target="_blank"><img src="http://img.youtube.com/vi/zIuTUFps1bE/0.jpg" 
 alt="http://img.youtube.com/vi/zIuTUFps1bE/0.jpg" width="240" height="180" border="10" /></a>
 
-satshakit car with sonars sensors ans Raspberry Pi:
+satshakit car with sonars sensors and Raspberry Pi:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=A0I6Nj6D2sE
 " target="_blank"><img src="http://img.youtube.com/vi/A0I6Nj6D2sE/0.jpg" 
@@ -132,13 +132,13 @@ alt="http://img.youtube.com/vi/0FD7bHNqlxU/0.jpg" width="240" height="180" borde
 satshakit micro
 --
 
-satshakit micro is a downsized version of the satshakit laser and cnc, developed to be used in **constrained space applications** like embedding the board in textiles or in small objects, or useful for who wants just a **bare metal board** to start with, also easy to be modified and/or customized. While satshakit micro is less than half the size of the other satshakits, it's a **full featured board** with the full Adruino pinout, missing only the possibility to be programmed using an FTDI cable.
+**satshakit micro** is a downsized version of the satshakit laser and cnc, developed to be used in **constrained space applications** like embedding the board in textiles or in small objects, or useful for who wants just a **bare metal board** to start with, also easy to be modified and/or customized. While satshakit micro is less than half the size of the other satshakits, it's a **full featured board** with the full Adruino pinout, missing only the possibility to be programmed using an FTDI cable.
 
 Here is the **satshakit micro board**:
 
 <img src="media/satshakit_micro/satshakit_micro_board.jpg" width="70%">
 
-<img src="https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_internal.png" width="70%">
+<img src="/media/satshakit_micro/satshakit_micro.png" width="70%">
 
 **downloads**
 
@@ -171,9 +171,11 @@ Here is the **satshakit multicore board**:
 
 <img src="media/satshakit_multicore/satshakit_multicore_board.jpeg" width="60%">
 
+<img src="media/satshakit_multicore/satshakit_multicore.png" width="60%">
 
 **downloads**
 
+- [satshakit multicore svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_multicore/satshakit_multicore.svg)
 - [satshakit multicore schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_multicore/satshakit_multicore.sch)
 - [satshakit multicore board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_multicore/satshakit_multicore.brd)
 
@@ -212,7 +214,7 @@ satshakit power board
 --
 <img src="media/satshakit_power_board/power_board.jpeg" width="60%">
 
-Due to the power requirements of a multicore satshakit system and to eventually provide power to **3.3V devices**, I also develop a simple power board. This power board can work with 7V-12V as input voltage, and give out 5V and 3.3V. I made this power board with the components I had available, obviously you can make this board only with SMD components.
+Due to the power requirements of a multicore satshakit system and to eventually provide power to **3.3V devices**, I have also developed a simple power board. This power board can work with 7V-12V as input voltage, and give out 5V and 3.3V. I made this power board with the components I had available, obviously you can make this board only with SMD components.
 
 Here is a picture of a soldered power board:
 
@@ -220,11 +222,8 @@ Here is a picture of a soldered power board:
 
 Getting Started
 --
-A satshakit board is **totally like an Arduino board**, thus is possible to use the Arduino IDE without any modification. When you finish solder satshakit, you're ready to program it.
-
-If you want to use satshakit as an Arduino, you first need to **upload Arduino bootloader**. This will also set the ATmega328P fuses as the same of an Arduino UNO.
- 
-To do this you need to use a **programmer**, for example another Arduino or FabISP. If you plan to program a satshakit with an Arduino, be sure to upload the **Arduino as ISP skecth** before connecting the satshakit to it.
+A satshakit board is **totally like an Arduino board**, thus is possible to use the Arduino IDE without any modification. When you finish solder satshakit, you're ready to program it. If you want to use satshakit as an Arduino, you first need to **upload Arduino bootloader**. This will also set the ATmega328P fuses as the same of an Arduino UNO.
+ To do this you need to use a **programmer**, for example another Arduino or FabISP. If you plan to program a satshakit with an Arduino, be sure to upload the **Arduino as ISP skecth** before connecting the satshakit to it.
 
 Here are the connection schemas to program **satshakit laser**, **satshakit cnc** or a **satshakit multicore** with an Arduino as ISP or with a FabISP:
 
