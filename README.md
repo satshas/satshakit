@@ -290,7 +290,7 @@ info@opendotlab.it<br />
 Via Tertulliano N70, 20137, Milan, Italy<br />
  +39.02.36519890<br />
 
-[Fablab kamp-Lintofort](http://fablab.hochschule-rhein-waal.de/index.php/de/)<br />
+[Fablab kamp-Lintfort](http://fablab.hochschule-rhein-waal.de/index.php/de/)<br />
 Hochschule Rhein-Waal<br />
 Friedrich-Heinrich-Allee 25<br />
 fablab@hochschule-rhein-waal.de
