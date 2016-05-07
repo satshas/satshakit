@@ -46,15 +46,15 @@ satshakit laser and cnc
 
 Here is the **satshakit laser board**:
 
-<img src="/media/satshakit_laser/satshakit_laser_board.png" width="70%">
+<img src="media/satshakit_laser/satshakit_laser_board.png" width="70%">
 
-<img src="/media/satshakit_laser/satshakit_laser.png" width="70%">
+<img src="media/satshakit_laser/satshakit_laser.png" width="70%">
 
 This is the **satshakit cnc board**:
 
-<img src="/media/satshakit_cnc/satshakit_cnc_board.jpg" width="70%">
+<img src="media/satshakit_cnc/satshakit_cnc_board.jpg" width="70%">
 
-<img src="/media/satshakit_cnc/satshakit_cnc_internal.png" width="70%">
+<img src="media/satshakit_cnc/satshakit_cnc_internal.png" width="70%">
 
 **downloads**
 
@@ -73,13 +73,13 @@ This is the **satshakit cnc board**:
 
 satshakit laser:
 
-<img src="/media/satshakit_laser/satshakit_laser_1.jpg" width="70%">
+<img src="media/satshakit_laser/satshakit_laser_1.jpg" width="70%">
 
 satshakit cnc:
 
-<img src="/media/satshakit_cnc/satshakit_cnc_1.jpg" width="70%">
+<img src="media/satshakit_cnc/satshakit_cnc_1.jpg" width="70%">
 
-<img src="/media/satshakit_cnc/satshakit_cnc_2.jpg" width="70%">
+<img src="media/satshakit_cnc/satshakit_cnc_2.jpg" width="70%">
 
 satshakit cnc blinks:
 
@@ -136,7 +136,8 @@ satshakit micro is a downsized version of the satshakit laser and cnc, developed
 
 Here is the **satshakit micro board**:
 
-<img src="/media/satshakit_micro/satshakit_micro_board.jpg" width="70%">
+<img src="media/satshakit_micro/satshakit_micro_board.jpg" width="70%">
+
 <img src="https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_internal.png" width="70%">
 
 **downloads**
@@ -151,9 +152,9 @@ Here is the **satshakit micro board**:
 
 **media**
 
-<img src="/media/satshakit_micro/satshakit_micro_1.jpg" width="70%">
+<img src="media/satshakit_micro/satshakit_micro_1.jpg" width="70%">
 
-<img src="/media/satshakit_micro/satshakit_micro_2.jpg" width="70%">
+<img src="media/satshakit_micro/satshakit_micro_2.jpg" width="70%">
 
 satshakit micro blink:
 
@@ -178,15 +179,15 @@ Here is the **satshakit multicore board**:
 
 **media**
 
-<img src="/media/satshakit_multicore/satshakit_multicore_1.jpg" width="60%">
+<img src="media/satshakit_multicore/satshakit_multicore_1.jpg" width="60%">
 
-<img src="/media/satshakit_multicore/satshakit_multicore_4.jpg" width="60%">
+<img src="media/satshakit_multicore/satshakit_multicore_4.jpg" width="60%">
 
 5-core satshakit system:
 
-<img src="/media/satshakit_multicore/satshakit_multicore_2.jpg" width="60%">
+<img src="media/satshakit_multicore/satshakit_multicore_2.jpg" width="60%">
 
-<img src="/media/satshakit_multicore/satshakit_multicore_3.jpg" width="60%">
+<img src="media/satshakit_multicore/satshakit_multicore_3.jpg" width="60%">
 
 satshakit multicore assembly & test:
 
@@ -250,7 +251,7 @@ Here is the connection schema to program a satshakit using the FTDI cable:
 
 <img src="media/satshakit_laser/satshakit_laser_programming_FTDI.jpg" width="60%">
 
-Remember that  if don't have an FTDI cable you always need a programmer, and to select **File->Upload using a programmer** to upload the code to satshakit.
+Remember that if you don't have an FTDI cable you always need a programmer, and to select **File->Upload using a programmer** to upload the code to satshakit.
 
 To use a satshakit like an Arduino, here is the Arduino pinout on satshakit cnc, satshakit laser and satshakit multicore:
 
@@ -290,9 +291,9 @@ info@opendotlab.it<br />
 Via Tertulliano N70, 20137, Milan, Italy<br />
  +39.02.36519890<br />
 
-[Fablab kamp-Lintfort](http://fablab.hochschule-rhein-waal.de/index.php/de/)<br />
+[Fablab Kamp-Lintfort](http://fablab.hochschule-rhein-waal.de/index.php/de/)<br />
 Hochschule Rhein-Waal<br />
-Friedrich-Heinrich-Allee 25<br />
+Friedrich-Heinrich-Allee 25, 47475 Kamp-Lintfort, Germany<br />
 fablab@hochschule-rhein-waal.de
 
 
@@ -302,4 +303,6 @@ This work is licensed under the terms of Attribution-NonCommercial-ShareAlike 4.
 
 Disclaimer  
 --
-This hardware/software is provided "as is", and you use the hardware/software at your own risk. Under no circumstances shall any author be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this hardware/software, even if the authors have been advised of the possibility of such damages.  
+
+<div class="align-justify">
+This hardware/software is provided "as is", and you use the hardware/software at your own risk. Under no circumstances shall any author be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this hardware/software, even if the authors have been advised of the possibility of such damages.</div>
