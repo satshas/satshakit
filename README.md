@@ -68,6 +68,8 @@ And this is the **satshakit cnc board**:
 - [satshakit laser svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_laser/satshakit_laser.svg)
 - [satshakit laser schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_laser/satshakit_laser.sch)
 - [satshakit laser board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_laser/satshakit_laser.brd)
+- [satshakit laser and cnc BOM Open Document](https://github.com/satshas/satshakit/raw/master/docs/satshakit_others/satshakit_BOM.ods)
+- [satshakit laser and cnc BOM Excel](https://github.com/satshas/satshakit/raw/master/docs/satshakit_others/satshakit_BOM.xlsx)
 
 **media**
 
@@ -149,6 +151,8 @@ Here is the **satshakit micro board**:
 - [satshakit micro cut tips png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_cut_tips.png)
 - [satshakit micro schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_micro/satshakit_micro.sch)
 - [satshakit micro board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_micro/satshakit_micro.brd)
+- [satshakit micro BOM Open Document](https://github.com/satshas/satshakit/raw/master/docs/satshakit_micro/satshakit_BOM.ods)
+- [satshakit micro BOM Excel](https://github.com/satshas/satshakit/raw/master/docs/satshakit_micro/satshakit_BOM.xlsx)
 
 **media**
 
@@ -178,6 +182,8 @@ Here is the **satshakit multicore board**:
 - [satshakit multicore svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_multicore/satshakit_multicore.svg)
 - [satshakit multicore schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_multicore/satshakit_multicore.sch)
 - [satshakit multicore board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_multicore/satshakit_multicore.brd)
+- [satshakit multicore BOM Open Document](https://github.com/satshas/satshakit/raw/master/docs/satshakit_others/satshakit_BOM.ods)
+- [satshakit multicore BOM Excel](https://github.com/satshas/satshakit/raw/master/docs/satshakit_others/satshakit_BOM.xlsx)
 
 **media**
 
