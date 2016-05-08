@@ -217,6 +217,11 @@ Due to the power requirements of a multicore satshakit system and to eventually 
 
 <img src="media/satshakit_power_board/power_board.jpeg" width="60%">
 
+**downloads**
+
+- [satshakit power board schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_power_board/satshakit_power_board.sch)
+- [satshakit power board board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_power_board/satshakit_power_board.brd)
+
 Here is a picture of a soldered power board:
 
 <img src="media/satshakit_power_board/power_board.jpg" width="60%">
