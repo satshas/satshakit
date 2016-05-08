@@ -212,9 +212,10 @@ alt="http://img.youtube.com/vi/uuVuoD9TB4M/0.jpg" width="240" height="180" borde
 
 satshakit power board
 --
-<img src="media/satshakit_power_board/power_board.jpeg" width="60%">
 
 Due to the power requirements of a multicore satshakit system and to eventually provide power to **3.3V devices**, I have also developed a simple power board. This power board can work with 7V-12V as input voltage, and give out 5V and 3.3V. I made this power board with the components I had available, obviously you can make this board only with SMD components.
+
+<img src="media/satshakit_power_board/power_board.jpeg" width="60%">
 
 Here is a picture of a soldered power board:
 
