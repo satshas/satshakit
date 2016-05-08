@@ -151,8 +151,8 @@ Here is the **satshakit micro board**:
 - [satshakit micro cut tips png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_cut_tips.png)
 - [satshakit micro schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_micro/satshakit_micro.sch)
 - [satshakit micro board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_micro/satshakit_micro.brd)
-- [satshakit micro BOM Open Document](https://github.com/satshas/satshakit/raw/master/docs/satshakit_micro/satshakit_BOM.ods)
-- [satshakit micro BOM Excel](https://github.com/satshas/satshakit/raw/master/docs/satshakit_micro/satshakit_BOM.xlsx)
+- [satshakit micro BOM Open Document](https://github.com/satshas/satshakit/raw/master/docs/satshakit_micro/satshakit_micro_BOM.ods)
+- [satshakit micro BOM Excel](https://github.com/satshas/satshakit/raw/master/docs/satshakit_micro/satshakit_micro_BOM.xlsx)
 
 **media**
 
