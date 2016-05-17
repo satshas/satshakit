@@ -56,7 +56,7 @@ And this is the **satshakit cnc board**:
 
 <img src="media/satshakit_cnc/satshakit_cnc_internal.png" width="70%">
 
-**downloads**
+**downloads (right click, download as)**
 
 - [satshakit cnc svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc.svg)
 - [satshakit cnc internal png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc_internal.png)
@@ -142,7 +142,7 @@ Here is the **satshakit micro board**:
 
 <img src="/media/satshakit_micro/satshakit_micro.png" width="70%">
 
-**downloads**
+**downloads (right click, download as)**
 
 - [satshakit micro svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro.svg)
 - [satshakit micro internal png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_internal.png)
@@ -177,7 +177,7 @@ Here is the **satshakit multicore board**:
 
 <img src="media/satshakit_multicore/satshakit_multicore.png" width="60%">
 
-**downloads**
+**downloads (right click, download as)**
 
 - [satshakit multicore svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_multicore/satshakit_multicore.svg)
 - [satshakit multicore schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_multicore/satshakit_multicore.sch)
@@ -223,7 +223,7 @@ Due to the power requirements of a multicore satshakit system and to eventually 
 
 <img src="media/satshakit_power_board/power_board.jpeg" width="60%">
 
-**downloads**
+**downloads (right click, download as)**
 
 - [satshakit power board schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_power_board/satshakit_power_board.sch)
 - [satshakit power board board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_power_board/satshakit_power_board.brd)
