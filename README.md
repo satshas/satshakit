@@ -1,3 +1,5 @@
+**IMPORTANT:** this repository is outdated, please find all the new repos about the satshakit boards here: **[satshakit Github organization](https://github.com/satshakit/)**
+
 <h1 style="font-family: courier;" align="center"> satshakit</h1>
 <p align="center">
 <img src="media/readme/satshakites.jpg" width="70%">
